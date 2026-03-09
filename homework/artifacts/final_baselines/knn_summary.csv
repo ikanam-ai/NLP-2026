@@ -1,0 +1,3 @@
+split,model_name,queue_acc,queue_macro_f1
+val,tfidf_svd_knn_queue,0.5684909326424871,0.5428157700647415
+test,tfidf_svd_knn_queue,0.5552857374129837,0.5313259246450277
