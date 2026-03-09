@@ -1,0 +1,16 @@
+name: nlp-2026
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - ipywidgets
+  - tqdm
+  - pip:
+      - -r requirements.txt
