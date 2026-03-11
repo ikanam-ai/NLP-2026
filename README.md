@@ -1,4 +1,4 @@
-# NLP — Весенний семестр 2026
+#  Test
 
 Курс по обработке естественного языка (Natural Language Processing).
 
