@@ -4,3 +4,6 @@ __pycache__/
 runs/
 wandb/
 *.log
+.ipynb_checkpoints/
+catboost_info/
+.DS_Store
