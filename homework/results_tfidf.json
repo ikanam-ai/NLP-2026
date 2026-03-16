@@ -1,0 +1,81 @@
+{
+  "tfidf": {
+    "val": {
+      "queue": {
+        "LogisticRegression": {
+          "macro_f1": 0.8617,
+          "weighted_f1": 0.6428,
+          "accuracy": 0.6473
+        },
+        "LinearSVC": {
+          "macro_f1": 0.8845,
+          "weighted_f1": 0.6596,
+          "accuracy": 0.6634
+        },
+        "SGDClassifier": {
+          "macro_f1": 0.299,
+          "weighted_f1": 0.3168,
+          "accuracy": 0.3716
+        }
+      },
+      "priority": {
+        "LogisticRegression": {
+          "macro_f1": 0.7599,
+          "weighted_f1": 0.6921,
+          "accuracy": 0.6935
+        },
+        "LinearSVC": {
+          "macro_f1": 0.7671,
+          "weighted_f1": 0.6926,
+          "accuracy": 0.6941
+        },
+        "SGDClassifier": {
+          "macro_f1": 0.5486,
+          "weighted_f1": 0.5588,
+          "accuracy": 0.5818
+        }
+      },
+      "type": {
+        "LogisticRegression": {
+          "macro_f1": 0.8835,
+          "weighted_f1": 0.8822,
+          "accuracy": 0.8855
+        },
+        "LinearSVC": {
+          "macro_f1": 0.8832,
+          "weighted_f1": 0.8821,
+          "accuracy": 0.8865
+        },
+        "SGDClassifier": {
+          "macro_f1": 0.7786,
+          "weighted_f1": 0.7955,
+          "accuracy": 0.835
+        }
+      },
+      "composite_score": 0.8562
+    },
+    "test": {
+      "queue": {
+        "macro_f1": 0.8745139335053133,
+        "weighted_f1": 0.6583636240125599,
+        "accuracy": 0.6640764124979763
+      },
+      "priority": {
+        "macro_f1": 0.7552868623165463,
+        "weighted_f1": 0.6850749935688094,
+        "accuracy": 0.6862554638173871
+      },
+      "type": {
+        "macro_f1": 0.8924777254307713,
+        "weighted_f1": 0.8876136583900909,
+        "accuracy": 0.8912093249150073
+      },
+      "composite_score": 0.8488
+    },
+    "best_models": {
+      "queue": "LinearSVC",
+      "priority": "LinearSVC",
+      "type": "LinearSVC"
+    }
+  }
+}

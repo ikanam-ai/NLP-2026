@@ -1,0 +1,21 @@
+class,F1,Precision,Recall,Support
+General Inquiry,0.3371,0.9375,0.2055,73
+Sales and Pre-Sales,0.4348,0.6667,0.3226,124
+IT Support,0.441,0.4965,0.3966,537
+Returns and Exchanges,0.4915,0.7565,0.364,239
+Customer Service,0.5245,0.5204,0.5287,749
+Product Support,0.5303,0.5268,0.5339,884
+Human Resources,0.6119,1.0,0.4409,93
+Technical Support,0.623,0.5381,0.7397,1414
+Service Outages and Maintenance,0.6771,0.864,0.5567,194
+Billing and Payments,0.7737,0.8505,0.7096,489
+Food & Drink/Groceries,0.8475,0.9259,0.7812,32
+Real Estate,0.8649,0.8889,0.8421,19
+Shopping/E-commerce,0.8947,0.8293,0.9714,35
+Pets & Animals/Pet Services,0.907,0.907,0.907,43
+Autos & Vehicles/Sales,0.9114,0.9,0.9231,39
+Travel & Transportation/Land Travel,0.9167,0.9706,0.8684,38
+Arts & Entertainment/Music,0.9333,0.9655,0.9032,31
+Science/Environmental Science,0.9351,0.9231,0.9474,38
+News,0.9351,0.878,1.0,36
+Law & Government/Legal Advice,0.9474,0.931,0.9643,28
